@@ -66,17 +66,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samarth-patel25&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-patel25&layout=compact&theme=tokyonight)
-
-</div>
-
-<br>
-
 ## 📫 Connect with Me
 
 <div align="center">

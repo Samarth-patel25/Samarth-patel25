@@ -9,8 +9,8 @@
 ## 🙋 About Me
 
 - 🎓 **B.Tech Computer Science & Engineering** @ Dharmsinh Desai University (3rd Year)
-- 💻 Background in **Competitive Programming** — active on LeetCode & Codeforces
-- 🔐 Completed a **Cybersecurity Internship** at BVM's Centre of Excellence in Cyber Security (with Sophos) — covering Ethical Hacking, VAPT, Digital Forensics, SOC Analysis & SIEM
+- 💻 Background in **Competitive Programming** — active on LeetCode & HackerRank
+- 🔐 Completed a **Cybersecurity Internship** at BVM's Centre of Excellence in Cyber Security (with Sophos x Hacker4Help) — covering Ethical Hacking, VAPT, Digital Forensics, SOC Analysis & SIEM
 - 🛠️ I build full-stack web applications, secure backend systems, and REST APIs
 - 🤖 Interested in **AI-powered applications and intelligent automation**
 - 📌 Actively looking for **Software Engineering Internships**

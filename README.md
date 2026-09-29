@@ -63,6 +63,8 @@
 |---|---|---|
 | **[MoviesVerse](https://github.com/MANAN-8017/Movies-Verse)** | Platform to browse movies, ratings, and reviews all in one place | Python, Django, MySQL |
 | **[BuildFlow](https://github.com/MANAN-8017/BuildFlow)** | MERN app that automates construction material estimation and offers an integrated procurement marketplace | React, Node.js, Express, MongoDB |
+| **[FairShare](https://github.com/MANAN-8017/Fair-Share)** | A mobile based expense-sharing application | Flutter, Dart, Supabase |
+| **[SecureShare](https://github.com/Samarth-patel25/SecureShare)** | .NET based Secure and Advanced file sharing platform | .NET, C#, MySQL |
 
 <br>
 
